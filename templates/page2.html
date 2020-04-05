@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>page2</title>
+    <!-- <link rel="stylesheet" href="{{ url_for('static',filename='cs/css1.css')}}" > -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!--<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script> <meta name="viewport" content="width=device-width, initial-scale=1">-->
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-2">Category :</div>
+        <div class="col-sm-2">CHANNEL :</div>
+        <div class="col-sm-1">tags:</div>
+        <div class="col-sm-1">VIEWS:</div>
+        <div class="col-sm-2">LIKES:</div>
+        <div class="col-sm-2">COMMENT:</div>
+        <div class="col-sm-2">TITLE:</div>
+
+    </div>
+    {% for row in data %}
+
+    <div class="row">
+        <div class="col-sm-2">  {{row[16]}}</div>
+        <div class="col-sm-1">  {{row[3]}}</div>
+         <div class="col-sm-2">{{ row[2] }} </div>
+        <div class="col-sm-1">{{ row[7] }} </div>
+        <div class="col-sm-2">{{ row[8] }} </div>
+        <div class="col-sm-2">{{ row[10] }} </div>
+        <div class="col-sm-2">{{ row[6] }} </div>
+        </div>
+    <br>
+    {% endfor %}
+</div>
+</body>
+</html>
