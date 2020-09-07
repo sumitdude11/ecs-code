@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ExternalSystem.BeforeRun">
+    <keyboard-shortcut first-keystroke="ctrl caps_lock" />
+  </action>
+</keymap>
