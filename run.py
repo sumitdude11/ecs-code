@@ -12,13 +12,13 @@ Challenge general notes:
 
 from flask import Flask
 import data
-
+from flask import Flask, render_template, request
 app = Flask(__name__)
 
 
 @app.route('/')
 def hello_world():
-    return 'Hello World!'
+    return render_template("index.html")
 
 # Import the API routes
 from routes.course import *
