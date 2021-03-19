@@ -65,6 +65,7 @@ def get_courses():
        requests/second.
     """
     # YOUR CODE HERE
+
     
 
 
@@ -116,4 +117,21 @@ def delete_course(id):
     None
     """
     # YOUR CODE HERE
+    file="ecs_data2.csv"
+    row = []
+    field = []
+
+    with open(file,'r') as csvfile:
+        csvreader = csv.reader(csvfile)
+        field = next(csvreader)
+        for g in csvreader:
+            row.append(g)
+
+        for k in range(0,200):
+            if(row[k][0] == id):
+                del(row[k])
+                print("course title "+row[k][8]+"deleted")
+
+                print()
+
 
