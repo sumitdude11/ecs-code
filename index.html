@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-      <title>ecs_ home</title>
+    <title>Ecs_home</title>
     <!-- <link rel="stylesheet" href="{{ url_for('static',filename='cs/css1.css')}}" > -->
     <meta charset="UTF-8">
-    <title>Fashion-Beauty</title>
+
     <!-- <link rel="stylesheet" href="{{ url_for('static',filename='cs/css1.css')}}" > -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
-    
+
 </head>
 <body>
     <img src="static/i1.png">
@@ -39,28 +39,33 @@
 </div>
 <br>
 <div class="container-fluid">
+    <form class="navbar-form navbar-left" action="/check" method="post">
     <div class="row">
-         <form class="navbar-form navbar-left" action="/check" method="post">
+
         <div class="col-sm-2">
             
         </div>
         <div class="col-sm-2">
             <h4> Title(words) </h4>
         </div>
+        <div class="col-sm-1"></div>
     <div class="col-sm-2">
        
-       
+
         <div class="form-group">
           <input type="text" name="n1" class="form-control" placeholder="Search">
+            &nbsp&nbsp
         </div>
-        
+
     </div>
-    <div class="col-sm-1">
-        <button type="submit">&nbsp&nbsp &nbsp<span class="glyphicon glyphicon-search"></span></button>
+        <div class="col-sm-3"></div>
+    <div class="col-sm-2">
+        <button typ="submit">search</button>
     </div>
-    <div class="col-sm-5"></div>
-             </form>
+
+
     </div>
+    </form>
 </div>
 <br>
 <div class="container">
