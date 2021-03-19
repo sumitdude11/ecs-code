@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio</title>
+    <!-- <link rel="stylesheet" href="{{ url_for('static',filename='cs/css1.css')}}" > -->
+    <meta charset="UTF-8">
+    <title>Fashion-Beauty</title>
+    <!-- <link rel="stylesheet" href="{{ url_for('static',filename='cs/css1.css')}}" > -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script> <meta name="viewport" content="width=device-width, initial-scale=1">-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <title>ecs_ home</title>
+</head>
+<body>
+<img src="static/i1.png">
+<hr>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-3">
+            <h2>&nbsp&nbsp&nbsp&nbspHome</h2>
+        </div>
+        <div class="col-sm-3">
+            <h2>Authors</h2>
+        </div>
+        <div class="col-sm-3">
+            <h2>Courses</h2>
+        </div>
+        <div class="col-sm-3">
+            <h2>Reports</h2>
+        </div>
+    </div>
+
+</div>
+<br>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-2">
+
+        </div>
+        <div class="col-sm-2">
+            <h4> Title(words) </h4>
+        </div>
+        <div class="col-sm-2">
+
+            <form class="navbar-form navbar-left" action="/check" method="post">
+                <div class="form-group">
+                    <input type="text" name="j1" class="form-control" placeholder="Search">
+                </div>
+            </form>
+        </div>
+        <div class="col-sm-1">
+            <button>&nbsp&nbsp &nbsp<span class="glyphicon glyphicon-search" type="submit" ></span></button>
+        </div>
+        <div class="col-sm-5"></div>
+    </div>
+</div>
+<br>
+<div class="container">
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>id</th>
+            <th>title</th>
+            <th>price</th>
+            <th>discount_price</th>
+            <th>on discount</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for row in data %}
+            <tr>
+            <div class="row">
+                <div class="col-sm-2">  {{row[0]}}</div>
+                <div class="col-sm-1">  {{row[8]}}</div>
+                <div class="col-sm-2">{{ row[7] }} </div>
+                <div class="col-sm-1">{{ row[4] }} </div>
+
+                <div class="col-sm-2">{{ row[6] }} </div>
+
+            </div>
+            </tr>
+            <br>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
