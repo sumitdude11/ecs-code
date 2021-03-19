@@ -1,0 +1,201 @@
+id,date_created,date_updated,description,discount_price,image_path,on_discount,price,title
+1,2019-12-25 12:57:58,2020-12-18 16:18:29,"Scala is a multi-paradigm, general-purpose programming language.",2,,False,20,The Art of Scala
+2,2019-03-16 05:15:39,2020-12-29 08:40:44,Agile practices discover requirements and develop solutions through collaborative effort.,3,,True,30,The Joy of Agile
+3,2020-09-13 14:40:39,2020-09-23 10:52:39,Pages is a word processor developed by Apple Inc.,5,,False,50,Talks About Pages
+4,2020-07-20 17:51:23,2020-08-04 12:06:58,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,2,,False,20,This Is A Course About Visual Studio
+5,2020-07-04 01:02:49,2021-01-31 15:07:20,"Scala is a multi-paradigm, general-purpose programming language.",3,,True,30,Even A Kid Can Learn Scala!
+6,2018-11-01 18:54:31,2020-05-19 08:24:37,Amazon Aurora is a relational database service developed and offered by AWS.,1,,True,10,A Simple Approach to Aurora
+7,2020-08-23 06:31:30,2021-02-09 01:22:38,"Amazon Web Services (AWS) is an on-demand cloud computing platform, and a subsidiary of Amazon.",4,,True,40,AWS: The Complete Blueprint
+8,2018-02-05 06:12:43,2020-01-15 10:14:05,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,2,,True,20,Do not Visual Studio Without This Course
+9,2020-11-04 00:45:40,2020-11-26 12:00:56,Keynote is a presentation program developed by Apple Inc.,2,,False,20,Essential KeyNote
+10,2018-03-23 11:46:56,2018-07-26 16:24:09,Keynote is a presentation program developed by Apple Inc.,5,,False,50,Beginners Guide To KeyNote
+11,2020-07-11 03:40:36,2020-07-29 22:05:07,PostgreSQL is a free and open-source relational database management system.,5,,True,50,PostgreSQL For The Common Person
+12,2020-01-28 08:00:43,2020-05-08 18:42:30,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,1,,True,10,A Complete Guide To Visual Studio
+13,2019-10-06 10:15:33,2020-08-27 13:19:38,Mockplus is tool for designing and rototyping user interfaces..,2,,False,20,How To Be Happy With Mockplus
+14,2018-10-18 12:23:14,2020-07-10 17:21:17,Numbers is a spreadsheet application developed by Apple Inc.,2,,False,20,Cracking the Secrets of Numbers
+15,2020-08-20 01:24:33,2020-09-16 22:40:02,Angular is a TypeScript-based open-source web application framework.,3,,False,30,It is Possible To Learn Angular In A Month
+16,2019-11-01 20:42:14,2019-11-03 15:10:45,Visual Paradigm is a design tool supporting UML and BPMN.,1,,False,10,Learn The Art of Visual Paradigm
+17,2021-02-18 23:44:51,2021-03-01 00:31:41,"Rust is low-level, modern programming language designed for performance and safety.",1,,True,10,The Best Way To Rust
+18,2018-01-04 02:11:45,2018-03-24 07:49:35,Cascading Style Sheets (CSS) is a style sheet language used in web applications,2,,False,20,Essential CSS
+19,2019-06-19 18:35:41,2020-09-16 07:19:51,Microsoft SQL Server is a relational database management system developed by Microsoft.,2,,True,20,Proactive SQL Server
+20,2018-07-24 15:29:10,2019-03-15 04:08:27,TypeScript is a programming language which is transpiled to JavaScript.,5,,True,50,TypeScript for Idiots
+21,2018-12-22 15:15:36,2019-07-09 14:52:38,Microsoft Excel is a spreadsheet developed by Microsoft.,1,,False,10,Microsoft Excel For Business
+22,2019-07-13 01:41:20,2021-01-23 15:51:21,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,4,,True,40,The Art of Visual Studio
+23,2018-07-07 18:54:27,2019-09-29 11:47:00,Amazon DynamoDB is a fully managed proprietary NoSQL database service.,3,,False,30,The Art of DynamoDB
+24,2018-11-01 14:39:15,2020-11-23 09:53:23,"C++ is a low-level, general-purpose programming language.",3,,False,30,C++ In Easy Steps
+25,2019-11-17 16:59:58,2020-06-04 12:59:21,PostgreSQL is a free and open-source relational database management system.,2,,False,20,The Purpose of PostgreSQL
+26,2018-11-12 00:02:09,2019-08-20 19:57:47,The waterfall model breaks project activities into sequential phases.,2,,False,20,Total Waterfall
+27,2020-03-21 09:24:41,2020-08-25 18:43:30,JavaScript is a prototype-based programming language conforming to the ECMAScript specification.,1,,False,10,JavaScript: Quick Solutions
+28,2020-02-26 23:03:56,2020-07-17 11:04:23,Sass is a style sheet language for web applications. It is interpreted or compiled into Cascading Style Sheets.,3,,False,30,No BS Guide to Sass
+29,2019-10-28 07:52:20,2020-03-09 20:58:22,Less is a style sheet language for web applications. It can be compiled into Cascading Style Sheets.,3,,False,30,Master The Art of Less
+30,2019-04-10 08:57:02,2019-04-20 14:58:07,"Django, named after Belgian guitarist Jean Reinhardt, is a Python-based, free and open-source web framework.",2,,True,20,The Best Way To Django
+31,2020-06-23 23:32:49,2020-09-25 15:09:44,The waterfall model breaks project activities into sequential phases.,3,,True,30,Learn To Waterfall In 30 Days
+32,2018-03-02 20:58:02,2020-11-01 20:34:19,"Go is a server-oriented, statically typed, compiled programming language.",5,,True,50,Learning Go One Step At a Time
+33,2018-03-03 13:25:23,2018-07-01 08:35:17,"C++ is a low-level, general-purpose programming language.",1,,True,10,C++ for Fun and Profit
+34,2018-06-19 10:49:42,2018-10-29 06:07:57,JavaScript is a prototype-based programming language conforming to the ECMAScript specification.,2,,False,20,Easy To Understand JavaScript
+35,2018-02-19 23:22:10,2018-09-17 17:27:09,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,3,,True,30,Expert Visual Studio
+36,2020-12-11 08:54:41,2021-02-03 17:57:17,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,1,,False,10,No BS Guide to Visual Studio
+37,2018-12-16 14:59:24,2021-02-23 20:51:12,Amazon S3 a cloud-based storage service offered by AWS.,1,,False,10,Don not Dare S3 Without Taking This Course
+38,2019-08-21 04:13:53,2019-09-21 02:37:23,Microsoft Office is a family of software services developed by Microsoft.,3,,False,30,A Simple Approach to Microsoft Office
+39,2020-01-14 13:38:50,2021-02-16 09:25:50,Visual Studio Code is a free source-code editor from Microsoft.,1,,True,10,A Crash Course in Visual Studio Code
+40,2018-06-01 18:26:34,2020-08-05 03:58:19,Svelte is a free and open-source front end JavaScript framework.,2,,False,20,Cracking the Secrets of Svelte
+41,2018-08-14 04:43:21,2020-11-27 06:06:13,MySQL is an open-source relational database management system.,5,,False,50,Reengineering MySQL
+42,2018-03-01 19:05:28,2018-06-20 07:16:41,Less is a style sheet language for web applications. It can be compiled into Cascading Style Sheets.,3,,True,30,Less! Less!! Less!!!
+43,2019-08-01 15:30:48,2020-12-18 08:25:43,Flask is a lightweight web framework written in Python.,2,,False,20,The Secrets of Flask
+44,2019-11-28 22:03:49,2020-04-01 00:36:41,Microsoft PowerPoint is a presentation program.,3,,False,30,My Microsoft PowerPoint Experience Taught Me These Rules
+45,2018-07-12 01:55:40,2019-03-02 07:37:41,Scrum is an agile framework for developing products,3,,True,30,"SCRUM, Volume 1"
+46,2020-05-15 08:18:33,2020-12-22 03:59:41,Microsoft PowerPoint is a presentation program.,2,,False,20,Expert Microsoft PowerPoint
+47,2018-07-15 12:23:23,2019-10-24 16:10:45,Microsoft Office is a family of software services developed by Microsoft.,2,,False,20,Total Microsoft Office
+48,2020-02-27 04:40:42,2021-01-12 16:32:30,"Django, named after Belgian guitarist Jean Reinhardt, is a Python-based, free and open-source web framework.",3,,False,30,Do not Django Without This Course
+49,2019-11-16 07:04:09,2019-11-28 21:09:19,Microsoft Excel is a spreadsheet developed by Microsoft.,3,,False,30,How to Microsoft Excel
+50,2019-08-31 22:51:44,2019-10-04 22:37:33,PostgreSQL is a free and open-source relational database management system.,3,,False,30,PostgreSQL Crash Course
+51,2018-06-26 04:11:08,2018-10-26 19:16:06,Scrum is an agile framework for developing products,3,,True,30,The SCRUM Guide
+52,2018-01-30 03:53:09,2020-12-10 15:40:10,Enterprise Architect is a design tool for UML.,3,,False,30,"1,001 Things To Know About Enterprise Architect"
+53,2018-09-21 22:29:26,2020-08-07 05:17:44,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",3,,False,30,Essential Python
+54,2019-03-13 13:26:14,2019-06-04 06:35:51,Microsoft Excel is a spreadsheet developed by Microsoft.,3,,True,30,Microsoft Excel For The Modern Developer
+55,2021-02-04 07:30:37,2021-02-07 04:10:43,"Java is a class-based, object-oriented programming language.",3,,True,30,This Is A Course About Java
+56,2020-08-08 15:48:38,2020-12-01 07:44:05,The waterfall model breaks project activities into sequential phases.,2,,True,20,Do not Waterfall Without This Course
+57,2020-04-03 18:35:26,2021-02-27 03:02:53,Mockplus is tool for designing and rototyping user interfaces..,3,,False,30,Do not Mockplus Without This Course
+58,2018-06-09 01:55:04,2020-01-09 11:56:50,Figma is a prototyping tool for user interfaces.,3,,True,30,Figma! Figma!! Figma!!!
+59,2020-04-13 00:50:40,2020-10-24 12:22:35,Amazon DynamoDB is a fully managed proprietary NoSQL database service.,3,,True,30,It is Possible To Learn DynamoDB In A Month
+60,2019-02-16 02:41:19,2019-07-02 20:29:26,"Django, named after Belgian guitarist Jean Reinhardt, is a Python-based, free and open-source web framework.",4,,False,40,Talks About Django
+61,2019-05-15 19:46:55,2020-02-24 01:48:08,The waterfall model breaks project activities into sequential phases.,2,,False,20,The Great Course of Waterfall
+62,2019-07-26 05:15:10,2019-08-01 17:45:58,Azure is a cloud-based computing platform created by Microsoft.,4,,False,40,Super Azure
+63,2018-08-23 13:42:59,2019-02-05 02:36:15,"Go is a server-oriented, statically typed, compiled programming language.",1,,True,10,Go For The Common Person
+64,2019-06-02 04:58:57,2019-12-15 16:45:15,The waterfall model breaks project activities into sequential phases.,3,,True,30,Expert Waterfall
+65,2019-01-24 03:50:24,2019-08-11 19:08:30,Oracle Database is a database management system developed by Oracle Corporation.,1,,True,10,Oracle Is Easy! An Introductory Guide
+66,2020-01-23 01:00:00,2021-01-23 09:55:22,Sass is a style sheet language for web applications. It is interpreted or compiled into Cascading Style Sheets.,4,,False,40,An Illustrated Guide to Sass
+67,2018-01-04 03:00:44,2020-01-16 00:24:49,Svelte is a free and open-source front end JavaScript framework.,4,,True,40,The Svelte Guide
+68,2020-04-09 10:42:35,2020-05-23 00:41:23,"Go is a server-oriented, statically typed, compiled programming language.",2,,False,20,It is Possible To Learn Go In A Month
+69,2020-06-30 05:29:30,2020-10-02 16:34:03,"Django, named after Belgian guitarist Jean Reinhardt, is a Python-based, free and open-source web framework.",4,,True,40,Ways To Django
+70,2018-01-22 19:56:52,2021-02-02 23:35:39,Mockplus is tool for designing and rototyping user interfaces..,2,,True,20,Unlocking The Secrets of Mockplus
+71,2019-02-03 14:52:40,2019-04-22 13:30:32,Microsoft Excel is a spreadsheet developed by Microsoft.,4,,False,40,Master The Art of Microsoft Excel
+72,2019-09-12 01:39:50,2020-07-04 18:46:55,"Java is a class-based, object-oriented programming language.",2,,False,20,A Crash Course in Java
+73,2018-09-19 19:31:25,2019-04-14 13:21:38,"Amazon Web Services (AWS) is an on-demand cloud computing platform, and a subsidiary of Amazon.",3,,False,30,One Month AWS Challenge
+74,2019-12-04 11:48:04,2019-12-04 23:02:27,"Rust is low-level, modern programming language designed for performance and safety.",4,,True,40,The Purpose of Rust
+75,2020-07-30 02:15:34,2020-11-17 01:27:31,Amazon Aurora is a relational database service developed and offered by AWS.,1,,True,10,Beginners Guide To Aurora
+76,2019-02-04 01:36:59,2020-12-10 02:00:44,"React is an open-source, JavaScript library for building user interfaces.",2,,True,20,The Purpose of React
+77,2020-02-07 10:13:22,2020-09-20 22:48:14,Azure is a cloud-based computing platform created by Microsoft.,2,,False,20,Cracking the Secrets of Azure
+78,2019-04-12 05:31:38,2019-05-21 12:54:08,Visual Paradigm is a design tool supporting UML and BPMN.,3,,False,30,"1,001 Things To Know About Visual Paradigm"
+79,2019-04-08 19:14:56,2020-04-17 03:55:11,Sass is a style sheet language for web applications. It is interpreted or compiled into Cascading Style Sheets.,2,,False,20,Teach Yourself Sass in Easy Lessons
+80,2018-02-03 12:58:00,2019-08-20 17:46:36,"Java is a class-based, object-oriented programming language.",2,,True,20,Essential Java
+81,2021-01-26 08:50:31,2021-02-27 04:54:00,PostgreSQL is a free and open-source relational database management system.,1,,True,10,This Is A Course About PostgreSQL
+82,2021-01-04 00:15:32,2021-01-06 04:15:58,Express.js is a web application framework built on Node.js.,5,,False,50,Expert Express
+83,2021-01-01 21:58:09,2021-01-21 20:27:01,TypeScript is a programming language which is transpiled to JavaScript.,1,,False,10,Don not Dare TypeScript Without Taking This Course
+84,2018-04-04 18:23:24,2019-07-01 09:09:09,JavaScript is a prototype-based programming language conforming to the ECMAScript specification.,2,,False,20,The Great Course of JavaScript
+85,2019-10-11 03:39:54,2020-04-17 15:51:43,JavaScript is a prototype-based programming language conforming to the ECMAScript specification.,4,,True,40,JavaScript! JavaScript!! JavaScript!!!
+86,2020-02-27 00:28:51,2020-04-29 11:28:02,Microsoft Excel is a spreadsheet developed by Microsoft.,1,,False,10,Destined To Be an Microsoft Excel
+87,2018-11-13 03:11:39,2019-03-04 11:39:06,"Go is a server-oriented, statically typed, compiled programming language.",2,,False,20,The Joy of Go
+88,2019-10-02 12:16:32,2021-01-07 20:18:36,Sass is a style sheet language for web applications. It is interpreted or compiled into Cascading Style Sheets.,3,,False,30,Talks About Sass
+89,2018-01-30 08:34:39,2020-05-08 05:27:29,Sass is a style sheet language for web applications. It is interpreted or compiled into Cascading Style Sheets.,5,,False,50,Do not Sass Without This Course
+90,2020-02-22 14:40:58,2020-02-25 13:36:30,"Scala is a multi-paradigm, general-purpose programming language.",1,,False,10,A Simple Approach to Scala
+91,2020-09-23 12:47:57,2021-01-18 07:41:47,Enterprise Architect is a design tool for UML.,2,,False,20,Enterprise Architect: Quick Solutions
+92,2018-08-15 05:19:46,2020-02-17 14:23:55,Amazon S3 a cloud-based storage service offered by AWS.,2,,False,20,40 Strategies To Master S3
+93,2019-10-16 08:18:18,2020-09-03 07:30:53,"Node.js, which was created by Ryan Dahl, is an open-source, back-end JavaScript runtime environment.",1,,False,10,Destined To Be an NodeJS
+94,2018-05-15 11:48:58,2019-08-01 01:52:58,Microsoft Excel is a spreadsheet developed by Microsoft.,5,,False,50,Microsoft Excel Is Easy! An Introductory Guide
+95,2018-07-27 17:30:29,2020-05-28 16:27:39,The waterfall model breaks project activities into sequential phases.,2,,False,20,Waterfall For The Common Person
+96,2020-05-29 20:16:27,2020-07-22 23:48:45,Numbers is a spreadsheet application developed by Apple Inc.,5,,True,50,Numbers! Numbers!! Numbers!!!
+97,2018-08-11 22:36:22,2019-07-31 10:21:24,Svelte is a free and open-source front end JavaScript framework.,2,,False,20,Unlocking The Secrets of Svelte
+98,2019-10-23 04:42:40,2019-11-02 08:42:05,"Rust is low-level, modern programming language designed for performance and safety.",1,,False,10,Rust: Quick Solutions
+99,2018-01-29 12:43:26,2019-05-03 17:14:25,"C++ is a low-level, general-purpose programming language.",3,,False,30,Teach Yourself C++ in Easy Lessons
+100,2020-07-13 21:07:47,2020-09-12 09:02:57,MySQL is an open-source relational database management system.,3,,True,30,Proactive MySQL
+101,2019-08-19 11:26:44,2020-02-04 06:34:09,"Django, named after Belgian guitarist Jean Reinhardt, is a Python-based, free and open-source web framework.",2,,True,20,Why You Need To Django
+102,2018-05-04 12:14:03,2020-11-08 21:24:32,"C++ is a low-level, general-purpose programming language.",2,,False,20,The Great Course of C++
+103,2018-07-29 22:07:37,2019-06-06 19:46:10,"Java is a class-based, object-oriented programming language.",2,,False,20,The Art of Java
+104,2018-08-04 20:16:07,2019-07-20 17:01:35,PostgreSQL is a free and open-source relational database management system.,3,,False,30,The Best Way To PostgreSQL
+105,2018-12-12 21:33:27,2019-07-16 16:09:12,"Django, named after Belgian guitarist Jean Reinhardt, is a Python-based, free and open-source web framework.",3,,True,30,Destined To Be an Django
+106,2019-05-14 01:48:03,2020-08-13 05:23:54,Microsoft Word is a word processor developed by Microsoft.,3,,True,30,"Microsoft Word, Volume 1"
+107,2019-11-16 16:29:56,2020-09-15 07:24:05,Sass is a style sheet language for web applications. It is interpreted or compiled into Cascading Style Sheets.,4,,True,40,Sass Matters
+108,2020-03-05 02:22:41,2021-02-20 07:04:18,Visual Studio Code is a free source-code editor from Microsoft.,3,,False,30,Visual Studio Code For The Common Person
+109,2020-05-16 17:35:32,2020-11-15 11:44:21,Agile practices discover requirements and develop solutions through collaborative effort.,1,,False,10,The Agile Guide
+110,2020-11-01 08:09:42,2021-01-16 10:38:37,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",5,,False,50,Talks About Python
+111,2019-07-27 00:40:15,2020-08-18 11:15:17,TypeScript is a programming language which is transpiled to JavaScript.,3,,False,30,TypeScript: The Complete Blueprint
+112,2020-07-26 02:19:32,2020-08-31 17:05:39,Express.js is a web application framework built on Node.js.,1,,False,10,Express Is Easy! An Introductory Guide
+113,2018-03-14 08:39:43,2019-02-27 15:54:33,Azure is a cloud-based computing platform created by Microsoft.,2,,True,20,Expert Azure
+114,2019-08-02 00:38:33,2020-01-21 18:22:32,Keynote is a presentation program developed by Apple Inc.,5,,False,50,The Joy of KeyNote
+115,2020-11-11 13:49:33,2020-12-03 03:27:47,Less is a style sheet language for web applications. It can be compiled into Cascading Style Sheets.,2,,False,20,Less For Business
+116,2020-11-06 01:05:23,2020-12-21 11:22:20,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",1,,False,10,40 Strategies To Master Python
+117,2020-03-13 06:56:46,2020-08-10 18:17:25,Visual Paradigm is a design tool supporting UML and BPMN.,2,,False,20,The Great Course of Visual Paradigm
+118,2018-07-09 23:19:59,2019-07-06 12:30:30,Amazon S3 a cloud-based storage service offered by AWS.,1,,False,10,S3: Quick Solutions
+119,2019-06-23 05:26:28,2019-09-15 08:40:30,Agile practices discover requirements and develop solutions through collaborative effort.,4,,True,40,Easy To Understand Agile
+120,2018-03-03 00:19:50,2019-12-12 22:20:09,"Amazon Web Services (AWS) is an on-demand cloud computing platform, and a subsidiary of Amazon.",1,,True,10,Master The Art of AWS
+121,2019-07-08 00:34:56,2019-09-01 09:24:10,IntelliJ IDEA is an integrated development environment (IDE) written in Java.,2,,True,20,IDEA For Business
+122,2019-04-05 12:07:15,2020-01-08 08:45:25,Microsoft Office is a family of software services developed by Microsoft.,1,,True,10,Do not Microsoft Office Without This Course
+123,2019-07-01 14:47:09,2020-01-11 19:02:28,TypeScript is a programming language which is transpiled to JavaScript.,1,,False,10,Teach Yourself TypeScript in Easy Lessons
+124,2018-06-10 00:13:53,2020-05-26 21:01:52,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",3,,False,30,Even A Kid Can Learn Python!
+125,2020-08-24 12:44:38,2021-01-02 13:45:27,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",5,,False,50,A Simple Approach to Python
+126,2018-10-28 08:21:12,2020-03-29 08:59:14,"Amazon Web Services (AWS) is an on-demand cloud computing platform, and a subsidiary of Amazon.",1,,False,10,Do not AWS Without This Course
+127,2020-07-16 22:44:54,2021-01-16 17:23:37,Scrum is an agile framework for developing products,4,,False,40,Learning SCRUM One Step At a Time
+128,2020-09-05 21:22:26,2021-01-09 23:36:45,"Java is a class-based, object-oriented programming language.",3,,False,30,Total Java
+129,2019-12-25 10:27:02,2020-08-29 16:02:10,Microsoft SQL Server is a relational database management system developed by Microsoft.,5,,False,50,SQL Server for Idiots
+130,2019-02-23 21:43:05,2019-04-30 04:23:12,Amazon S3 a cloud-based storage service offered by AWS.,5,,True,50,The Art of S3
+131,2018-05-10 12:41:40,2020-11-07 08:07:20,Microsoft SQL Server is a relational database management system developed by Microsoft.,1,,False,10,SQL Server For The Modern Developer
+132,2020-05-04 09:37:23,2020-11-28 05:42:25,Microsoft PowerPoint is a presentation program.,2,,False,20,Do not Microsoft PowerPoint Without This Course
+133,2018-07-16 01:32:28,2021-02-22 18:13:47,"React is an open-source, JavaScript library for building user interfaces.",2,,False,20,It is Possible To Learn React In A Month
+134,2019-01-05 08:17:59,2020-12-05 16:49:35,Microsoft PowerPoint is a presentation program.,3,,False,30,Total Microsoft PowerPoint
+135,2020-12-26 13:55:10,2021-02-15 00:31:28,Microsoft Excel is a spreadsheet developed by Microsoft.,1,,True,10,The Secrets of Microsoft Excel
+136,2021-02-11 19:27:16,2021-02-24 00:13:26,MySQL is an open-source relational database management system.,5,,True,50,MySQL For Business
+137,2019-05-07 13:06:49,2019-06-05 13:01:06,Amazon S3 a cloud-based storage service offered by AWS.,2,,True,20,S3 Unlocked
+138,2019-11-07 12:48:27,2020-08-03 06:00:14,Amazon S3 a cloud-based storage service offered by AWS.,1,,True,10,My S3 Experience Taught Me These Rules
+139,2020-11-24 13:56:49,2021-02-26 09:19:26,JavaScript is a prototype-based programming language conforming to the ECMAScript specification.,3,,True,30,JavaScript For The Common Person
+140,2018-05-28 23:54:11,2019-08-16 15:10:42,Angular is a TypeScript-based open-source web application framework.,1,,False,10,Angular! Angular!! Angular!!!
+141,2019-08-02 04:16:40,2020-05-13 07:32:54,IntelliJ IDEA is an integrated development environment (IDE) written in Java.,5,,True,50,Find A Career In IDEA
+142,2018-03-22 22:59:43,2020-07-18 09:11:03,Keynote is a presentation program developed by Apple Inc.,1,,True,10,"KeyNote, Volume 1"
+143,2018-07-23 14:30:38,2018-09-28 14:20:03,Microsoft PowerPoint is a presentation program.,3,,True,30,Cracking the Secrets of Microsoft PowerPoint
+144,2020-12-16 20:07:34,2020-12-22 09:19:28,Figma is a prototyping tool for user interfaces.,1,,True,10,The Smart Person Guide to Figma
+145,2018-09-30 11:17:38,2020-07-22 20:58:41,The waterfall model breaks project activities into sequential phases.,2,,False,20,The Smart Person Guide to Waterfall
+146,2019-05-21 12:47:51,2021-02-14 01:33:35,Mockplus is tool for designing and rototyping user interfaces..,3,,False,30,Destined To Be an Mockplus
+147,2020-06-10 11:27:11,2020-12-25 13:41:02,Numbers is a spreadsheet application developed by Apple Inc.,5,,False,50,Numbers For The Common Person
+148,2020-09-18 19:03:23,2020-12-24 12:16:49,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",4,,True,40,Expert Python
+149,2020-12-11 05:55:07,2021-02-28 01:18:04,PostgreSQL is a free and open-source relational database management system.,5,,True,50,My PostgreSQL Experience Taught Me These Rules
+150,2019-09-04 02:16:01,2020-09-10 19:17:38,Mockplus is tool for designing and rototyping user interfaces..,3,,False,30,Mockplus! Mockplus!! Mockplus!!!
+151,2020-05-20 07:14:41,2020-06-25 18:01:42,Angular is a TypeScript-based open-source web application framework.,2,,False,20,Master The Art of Angular
+152,2020-09-21 20:33:48,2020-12-06 17:56:44,MySQL is an open-source relational database management system.,2,,False,20,The MySQL Guide To Getting Ahead
+153,2020-07-11 08:53:46,2020-11-07 14:20:38,Numbers is a spreadsheet application developed by Apple Inc.,1,,True,10,The Secrets of Numbers
+154,2018-08-28 05:14:42,2019-01-21 20:53:47,"Scala is a multi-paradigm, general-purpose programming language.",2,,False,20,Ways To Scala
+155,2018-01-21 14:41:56,2019-08-08 05:55:10,Svelte is a free and open-source front end JavaScript framework.,3,,False,30,Reengineering Svelte
+156,2020-04-05 21:31:44,2020-12-17 08:49:16,"Amazon Web Services (AWS) is an on-demand cloud computing platform, and a subsidiary of Amazon.",2,,False,20,Don not Dare AWS Without Taking This Course
+157,2020-05-25 13:51:18,2020-11-03 23:30:52,"SQLite is a file-based, relational database management system.",5,,True,50,Don not Dare SQLite Without Taking This Course
+158,2020-10-02 03:26:11,2020-11-22 09:59:42,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,1,,True,10,The Smart Person Guide to Visual Studio
+159,2020-10-23 22:41:40,2021-02-18 02:07:59,Microsoft Office is a family of software services developed by Microsoft.,3,,False,30,Microsoft Office: Quick Solutions
+160,2018-02-08 02:18:38,2020-05-26 01:18:06,"Rust is low-level, modern programming language designed for performance and safety.",2,,False,20,A Crash Course in Rust
+161,2018-09-21 17:54:23,2019-06-24 16:07:25,Flask is a lightweight web framework written in Python.,1,,True,10,Easy To Understand Flask
+162,2019-04-22 12:07:01,2021-02-28 16:02:23,Express.js is a web application framework built on Node.js.,3,,True,30,"1,001 Things To Know About Express"
+163,2020-01-01 05:48:15,2020-03-25 05:12:44,Visual Paradigm is a design tool supporting UML and BPMN.,1,,False,10,The Secrets of Visual Paradigm
+164,2019-10-03 13:54:43,2020-01-03 15:35:32,Sass is a style sheet language for web applications. It is interpreted or compiled into Cascading Style Sheets.,3,,True,30,Sass For Business
+165,2018-11-18 12:00:56,2020-08-16 20:29:49,"C is a low-level, general-purpose computer programming language.",3,,True,30,A Simple Approach to C
+166,2018-12-13 08:15:35,2019-09-25 04:32:14,Mockplus is tool for designing and rototyping user interfaces..,5,,False,50,Mockplus Matters
+167,2018-08-26 22:06:54,2019-04-05 14:45:36,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",5,,False,50,The 4 Hour Python Guide
+168,2021-02-21 04:15:25,2021-02-23 22:53:24,"React is an open-source, JavaScript library for building user interfaces.",2,,False,20,40 Strategies To Master React
+169,2018-03-09 23:10:12,2019-05-12 19:22:11,Cascading Style Sheets (CSS) is a style sheet language used in web applications,1,,True,10,CSS: The Complete Blueprint
+170,2019-03-31 03:10:08,2019-06-25 18:47:09,The waterfall model breaks project activities into sequential phases.,1,,True,10,A Simple Approach to Waterfall
+171,2019-08-29 02:09:11,2019-09-29 22:36:29,The waterfall model breaks project activities into sequential phases.,3,,False,30,An Illustrated Guide to Waterfall
+172,2018-05-20 08:22:46,2018-12-27 19:47:24,Mockplus is tool for designing and rototyping user interfaces..,1,,False,10,Master The Art of Mockplus
+173,2019-12-01 15:38:03,2020-05-12 10:11:27,Cascading Style Sheets (CSS) is a style sheet language used in web applications,3,,True,30,Learn To CSS In 30 Days
+174,2020-01-17 11:15:23,2020-12-22 16:22:58,Cascading Style Sheets (CSS) is a style sheet language used in web applications,3,,False,30,Proactive CSS
+175,2020-06-25 10:53:44,2020-09-15 03:27:55,"C is a low-level, general-purpose computer programming language.",1,,False,10,The Joy of C
+176,2019-08-04 15:41:04,2020-09-01 09:44:10,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,1,,False,10,Learn To Visual Studio In 30 Days
+177,2018-02-01 10:55:26,2019-02-25 07:11:29,TypeScript is a programming language which is transpiled to JavaScript.,1,,False,10,Essential TypeScript
+178,2020-05-21 19:58:59,2020-09-08 03:17:53,Scrum is an agile framework for developing products,2,,False,20,SCRUM for Idiots
+179,2019-08-11 00:42:55,2020-11-21 17:43:59,Flask is a lightweight web framework written in Python.,1,,True,10,An Illustrated Guide to Flask
+180,2018-09-16 02:54:23,2019-02-05 17:07:27,Microsoft Word is a word processor developed by Microsoft.,3,,False,30,This Is A Course About Microsoft Word
+181,2020-02-11 04:37:08,2020-06-04 10:29:55,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,3,,False,30,Visual Studio Crash Course
+182,2019-08-11 10:54:12,2019-10-02 08:26:20,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",3,,False,30,The Fast and Easy Guide to Python
+183,2020-03-13 16:09:50,2020-04-06 16:55:37,Enterprise Architect is a design tool for UML.,1,,False,10,Enterprise Architect Matters
+184,2019-08-19 12:33:18,2020-05-17 11:14:52,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",2,,False,20,"1,001 Things To Know About Python"
+185,2019-11-26 22:30:40,2020-05-26 13:31:43,Amazon S3 a cloud-based storage service offered by AWS.,3,,True,30,How To Be Happy With S3
+186,2019-06-19 18:08:59,2020-01-15 17:00:04,"React is an open-source, JavaScript library for building user interfaces.",3,,False,30,The Art of React
+187,2020-03-27 22:06:58,2020-05-14 11:39:03,"Python is a general-purpose, high level programming language, increasingly used in AI and ML.",2,,False,20,The Great Course of Python
+188,2018-06-03 13:58:29,2020-12-07 10:11:23,Cascading Style Sheets (CSS) is a style sheet language used in web applications,2,,True,20,40 Strategies To Master CSS
+189,2018-09-11 19:33:02,2020-06-27 11:22:29,"SQLite is a file-based, relational database management system.",4,,False,40,Learning SQLite One Step At a Time
+190,2020-10-24 21:50:47,2020-12-18 17:10:58,Express.js is a web application framework built on Node.js.,3,,True,30,Cracking the Secrets of Express
+191,2020-10-03 21:14:34,2020-12-27 16:55:59,Cascading Style Sheets (CSS) is a style sheet language used in web applications,2,,False,20,Beginners Guide To CSS
+192,2018-07-18 03:37:41,2019-02-12 00:53:04,Cascading Style Sheets (CSS) is a style sheet language used in web applications,2,,False,20,Learn The Art of CSS
+193,2020-12-05 02:06:35,2021-02-27 02:26:53,"Java is a class-based, object-oriented programming language.",2,,False,20,The Joy of Java
+194,2018-08-14 11:48:32,2018-12-30 20:06:56,"Scala is a multi-paradigm, general-purpose programming language.",2,,False,20,Find A Career In Scala
+195,2019-01-18 14:07:07,2019-05-19 05:30:47,Angular is a TypeScript-based open-source web application framework.,3,,False,30,Essential Angular
+196,2020-08-17 03:58:12,2020-10-04 08:26:26,Amazon S3 a cloud-based storage service offered by AWS.,3,,True,30,An Illustrated Guide to S3
+197,2018-04-28 19:44:10,2018-10-26 17:46:38,Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.,1,,False,10,40 Strategies To Master Visual Studio
+198,2019-07-02 08:58:32,2020-06-23 09:35:03,"C++ is a low-level, general-purpose programming language.",4,,True,40,C++ Crash Course
+199,2019-03-27 22:56:13,2019-10-05 21:05:49,Figma is a prototyping tool for user interfaces.,2,,False,20,The Figma Guide To Getting Ahead
+200,2020-11-27 19:40:06,2020-12-20 18:54:18,Visual Studio Code is a free source-code editor from Microsoft.,4,,True,40,Visual Studio Code! Visual Studio Code!! Visual Studio Code!!!
